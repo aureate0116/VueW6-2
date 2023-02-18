@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,d as t}from"./index-7e242311.js";const c={components:{}},a={class:"home"},n=t("h1",{class:"text-primary"},"Hello, This is Home Page.",-1),r=[n];function _(i,d,p,m,l,h){return o(),s("div",a,r)}const u=e(c,[["render",_]]);export{u as default};
